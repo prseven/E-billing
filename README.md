@@ -2,7 +2,7 @@
 The system enables you to add products and items, create customers and users, and generates as many invoices, receipts and quotes as you want. 
 
 #Instructions
-Step 1
+Step 1<br>
 Go to the Apache Friends website and download XAMPP for Windows. For the easiest install, download the Basic Package's "self-extracting RAR archive." Wait for the download to finish and open it to begin installing XAMPP. Click the "Install" button to start the file extraction. When the Command Prompt screen appears, press the "Enter" key at every question to accept default settings.
 
 Step 2
